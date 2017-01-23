@@ -56,7 +56,7 @@ The website for the course is [http://math.adelphi.edu/~bstone/teaching/csc160/]
 * The final grade will be determined by your performance on homework, quizzes, exams, and the final examination. The final grade is weighted as follows:
 
 
-* * | Items | Percentages |
+| Items | Percentages |
 |:---|:---|
 | Weekly Assignments&nbsp;&nbsp; | 20% |
 | Projects | 40% |
